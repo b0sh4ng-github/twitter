@@ -11,6 +11,7 @@ The find prime algorithm is to divide candidate int ( figure out the ALU interna
 Using floating point does not help in the operations because the ALUs do not let you approximate better than int even if you change FP64 default to support larger numbers; check out circuit design and proof for exactly why this is true
 
 To access a large criminal network and exchange in the open please visit https://twitch.tv/signup
+
 To visit the dark net marketplaces please visit https://discord.com/
 
 To visit some other web apps please download the Tor Browser https://www.torproject.org/download/ open it; type about:config; type javascript.enabled; toggle false; then visit http://darkfailllnkf4vf.onion/
